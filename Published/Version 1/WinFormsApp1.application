@@ -14,7 +14,7 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="https://raw.githubusercontent.com/KhenAlcantara/KCP-Trading/main/Published/Version%201/Application Files/WinFormsApp1_1_0_0_1/WinFormsApp1.dll.manifest" size="4661">
+    <dependentAssembly dependencyType="install" codebase="https://raw.githubusercontent.com/KhenAlcantara/KCP-Trading/main/Published/Version%201/Application%20Files/WinFormsApp1_1_0_0_1/WinFormsApp1.dll.manifest" size="4661">
       <assemblyIdentity name="WinFormsApp1.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
